@@ -6,6 +6,4 @@ Presented at rstudio::conf22 on 7/28/22
 
 Link to video presentation will be made available shortly.
 
-![](images/journey-to-data-science-tools_talk-opt4%20(1).png)
-
 ![](images/journey-to-data-science-tools_talk-opt4%20(1).png)Learn more and let's connect @\_IleanaF on Twitter!
