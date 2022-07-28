@@ -1,9 +1,3 @@
----
-title: "README.md"
-format: html
-editor: visual
----
-
 ## "A Journey to Data Science: Tools for Equity and Diversity in STEM" 
 
 By: Ileana Fenwick
